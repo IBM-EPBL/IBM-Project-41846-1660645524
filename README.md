@@ -1,7 +1,8 @@
 IBM-Project-4372-1658730006
+
 A Novel Method for Handwritten Digit Recognition System✍️
-Category:
-🧠Artificial Intelligence
+
+Category:🧠Artificial Intelligence
 
 👨‍🎓Skills Required:
 Python,CNN, IBM Cloud, IBM Watson Studio, IBM Cloudant DB, Deep Learning, Python-Flask
